@@ -17,7 +17,7 @@ def main():
         ) from exc
     execute_from_command_line(sys.argv)
 
-print("Hello world")
+print("Im handsome")
 
 
 if __name__ == '__main__':
